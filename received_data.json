@@ -1,0 +1,30 @@
+[
+  {
+    "latitude": 12.89433050758772,
+    "longitude": 77.67674512586275,
+    "altitude": 926.7462549315647,
+    "timestamp": "11:45:01",
+    "name": "Girl's Hostel"
+  },
+  {
+    "latitude": 12.89731137641403,
+    "longitude": 77.67577865247226,
+    "altitude": 912.1546248552214,
+    "timestamp": "11:49:59",
+    "name": "Ground"
+  },
+  {
+    "latitude": 12.8949731542635,
+    "longitude": 77.6757775462311,
+    "altitude": 965.1546233564583,
+    "timestamp": "16:24:02",
+    "name": "College Library"
+  },
+  {
+    "latitude": 12.89698854632154,
+    "longitude": 77.67612459633214,
+    "altitude": 913.2456211145222,
+    "timestamp": "16:41:06",
+    "name": "Volley Ball Court"
+  }
+]
